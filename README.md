@@ -25,11 +25,11 @@ Installation
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/git-clone-fix.git
+git clone https://github.com/Curlgit/Git-Clone-URL-Updater-New-Username-Automatic.git
 ```
 2. Open the project directory
 ```bash
-cd git-clone-fix
+cd Git-Clone-URL-Updater-New-Username-Automatic
 ```
 3. Run the installer
 ```bash
