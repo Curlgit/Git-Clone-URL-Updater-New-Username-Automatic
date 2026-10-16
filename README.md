@@ -37,7 +37,7 @@ bash install.sh
 ```
 4. Start the tool
 ```bash
-python git clone update.py
+python 'git clone update.py'
 ```
 Termux Private Storage
 
