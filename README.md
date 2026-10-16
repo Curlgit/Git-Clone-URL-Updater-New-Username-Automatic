@@ -1,4 +1,4 @@
-Git Clone URL Updater — New Username Automatic
+**Git Clone URL Updater — New Username Automatic**
 
 Developed by Curlgit
 
@@ -111,6 +111,9 @@ Security
 - Use a limited-permission token whenever possible.
 - Revoke the token if it is exposed.
 - Review repository changes after running batch updates.
-
-**Disclaimer
-This tool is intended for educational and personal use. Use it only with repositories you own or are authorized to modify. The developer is not responsible for damage or unintended changes caused by its use**
+- 
+**⚠️ Disclaimer
+📚 This tool is intended for educational and personal use only.
+🔐 Use it only on repositories you own or have permission to modify.
+🛡️ The developer, Curlgit, is not responsible for data loss, unintended changes, or misuse of this tool.
+✅ Users are responsible for their actions and for keeping API tokens secure**
